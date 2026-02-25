@@ -12,6 +12,10 @@
 * [**Actividad 2**](tarea2/README.md) — Codigo 1 Definición Pruebas
 * [**Actividad 3**](tarea3/README.md) — Codigo 2 Definición Pruebas
 * [**Actividad 4**](tarea4/README.md) — Ejercicios clases en Java
+* [**Actividad 5**](tarea5/README.md) — Pruebas unitarias con JUnit. Calculadora
+* [**Actividad 6**](tarea6/README.md) — Pruebas unitarias con JUnit. Cuenta
+* [**Actividad 7**](tarea7/README.md) — Pruebas unitarias con JUnit. Tiempo
+* [**Actividad 8**](tarea8/README.md) — Pruebas con JUnit y Mockito
 
 ---
 
@@ -31,6 +35,27 @@ REPO/
 ├── tarea3/
 │   └── README.md
 ├── tarea4/
+│   └── Clases/
+│   └── README.md
+├── tarea5/
+│   └── src/
+│   └── pom.xml
+│   └── .gitignore
+│   └── README.md
+├── tarea6/
+│   └── src/
+│   └── pom.xml
+│   └── .gitignore
+│   └── README.md
+├── tarea7/
+│   └── src/
+│   └── pom.xml
+│   └── .gitignore
+│   └── README.md
+├── tarea8/
+│   └── src/
+│   └── pom.xml
+│   └── .gitignore
 │   └── README.md
 └── README.md
 ```
